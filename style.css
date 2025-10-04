@@ -6,7 +6,7 @@ header {
     background-color: black;
  text-align: center;
     padding: 20px;
-  background-color: rgb(127, 193, 255);
+  background-color: rgb(100, 137, 171);
     color: black;
     font-size: 24px;
     font-weight: bold;
@@ -19,7 +19,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: black;
-    color: rgb(238, 148, 14);
+    color: rgb(151, 158, 27);
     line-height: 1.6;
     
 }
